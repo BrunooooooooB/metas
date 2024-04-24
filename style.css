@@ -8,3 +8,7 @@
 --botao-ativo: rgba(58, 55, 94, 0.5);
 --texto-de-fundo: rgba(58, 55, 94, 0.3); 
 }
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco); font-family: chakra Petch; sans-serif;
